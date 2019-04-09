@@ -9,6 +9,8 @@
  */
 public class Hello {
     public static void main(String[] args) {
+        int i =10;
+        System.out.println("123"+i);
         int a=22;
         System.out.println(a);
         System.out.println("123");
